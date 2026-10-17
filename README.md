@@ -54,5 +54,5 @@ Ghia, U., Ghia, K. N., and Shin, C. T. (1982). High-Re solutions for incompressi
 **Khadim Hussain**
 
 - BS in Mathematics, International Islamic University Islamabad
-- Email: khadimnetworks.com
+- Email: khadimnetworks@gmail.com
 - GitHub: https://github.com/Khadim-Hussain10
